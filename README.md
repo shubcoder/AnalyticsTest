@@ -49,11 +49,14 @@ Please create visualisations for each task. We are looking for clear, interpreta
 
 We would like you to answer the following questions using the code-based analytical tool of your choice (e.g. Python, R). 
 
-1.	Visualise the distribution of total usual resident population across all local authorities. Could we say that the data is normally distributed?
+## Exercise C:
+Visualise the distribution of total usual resident population across all local authorities. Could we say that the data is normally distributed?
 
-2.	Create a visualisation of the distribution of population by five-year age bands by sex in Lambeth. 
+## Exercise D:
+Create a visualisation of the distribution of population by five-year age bands by sex in Lambeth. 
 
-3.	Using the data from the time series dataset, visualise the trend in historical population in England, as well as the predicted population in 2030.
+## Exercise E:
+Using the data from the time series dataset, visualise the trend in historical population in England, as well as the predicted population in 2030.
 
 
 We will be assessing both the techniques you use to calculate the answers to these questions and the way in which your answers are visualised.
