@@ -58,10 +58,12 @@ Create a visualisation of the distribution of population by five-year age bands 
 ## Exercise E:
 Using the data from the time series dataset, visualise the trend in historical population in England, as well as the predicted population in 2030.
 
+# Final Instructions
+We will be assessing both the _techniques_ you use to calculate the answers to these questions and _the way in which your answers are visualised_.
 
-We will be assessing both the techniques you use to calculate the answers to these questions and the way in which your answers are visualised.
+Please annotate your code so we can see your thought process and how you approached the problems as well as your solutions.
 
 Send you answers plus any code to msinclair@lambeth.gov.uk before the deadline. Please email us if you have trouble accessing the above datasets
 
 
-Good Luck!
+__Good Luck!__
