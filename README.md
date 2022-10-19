@@ -2,7 +2,7 @@
 
 Please refer to the accompanying email for the deadline for this task. You may access the internet/refer to other sources for help or inspiration if you wish.
 
-# Part1
+# Part1: Logical problems
 
 This part will consist of two coding exercises, A and B. We would like you to answer the following questions using the code-based analytical tool of your choice (e.g. Python, R).
 
@@ -33,7 +33,7 @@ Starting with the initial charge value of 0. What is the first duplicated charge
 Your puzzle input is the same as Exercise A and its saved here https://github.com/Lambeth-DAI-Team/AnalyticsTest/tree/main/data. 
 
 
-# Part 2
+# Part 2: Data anlytics and presentation of data
 
 This exercise uses two publicly available data files. The first file contains population estimates for the UK at local authority level from the 2021 Census:
 
