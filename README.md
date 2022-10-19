@@ -1,5 +1,9 @@
 # Graduate Data Analyst: Assessment
 
+Welcome to the assessment for the Graduate Data Analyst post for the Lambeth Data, Analytics and Insight team. Please read through the instructions below and submit your results by the agreed deadline.
+
+--- 
+
 Please refer to the accompanying email for the deadline for this task. You may access the internet/refer to other sources for help or inspiration if you wish.
 
 # Part1: Logical problems
